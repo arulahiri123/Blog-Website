@@ -1,0 +1,51 @@
+ /* body {
+  height: 100%;
+}
+
+.mydiv {
+  width:100%;
+  height:100%;
+  color:black;
+  font-weight:bold;
+  animation: myanimation 10s infinite;
+}
+
+@keyframes myanimation {
+  0% {background-color: red;}
+  25%{background-color:yellow;}
+  50%{background-color:green;}
+  75%{background-color:brown;}
+  100% {background-color: red;}
+} */
+
+
+.posttitle{
+  font-family: 'Russo One',sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+.postdate{
+  text-align: center;
+}
+.postcontent{
+  font-family: 'Montserrat';
+  font-size: 1.5em;
+}
+
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.techtop{
+  font-family: "Russo One "sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+
+}
+
+.bigbrand{
+  font-size: 1.5em;
+
+}
